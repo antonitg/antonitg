@@ -1,6 +1,6 @@
 # Antoni Tormo's Readme
 
-Hello everyone! I'm Antoni Conejero, and seeing this repository is the way that helps me improving myself into projects that I love 
+Hello everyone! I'm Antoni Tormo Garcia
 
 
 ## Languages that I use!
